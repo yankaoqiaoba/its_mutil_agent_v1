@@ -1,0 +1,89 @@
+2026-05-16 12:12:03,785 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:12:12,667 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:35:01,723 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:35:01,730 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:35:01,733 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:35:04,192 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:35:14,073 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:35:14,182 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:35:14,184 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:35:14,185 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:40:02,039 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:40:02,457 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:40:34,791 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:40:34,791 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:40:34,791 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'backend.app.repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:40:36,843 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 导航去附近的服务站
+2026-05-16 12:40:36,844 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'backend.app.repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:40:36,848 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'backend.app.repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:40:36,901 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:40:36,901 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:40:36,901 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'backend.app.repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:43:16,353 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:43:16,354 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:43:16,355 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:43:19,120 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:43:19,549 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:43:29,149 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:43:29,149 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:43:29,149 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:43:50,950 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 导航到附近服务站
+2026-05-16 12:43:50,950 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:43:50,952 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:43:50,965 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:43:50,965 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:43:50,965 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:46:28,375 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:46:28,377 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:46:28,378 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:46:30,993 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:46:31,378 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:46:39,039 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:46:39,039 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:46:39,039 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:46:48,848 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 导航去郑州的服务站
+2026-05-16 12:46:48,848 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:46:48,851 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:46:48,869 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:46:48,869 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:46:48,869 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:51:08,159 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:51:08,160 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:51:08,161 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:51:10,730 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:51:11,158 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:51:19,310 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:51:19,310 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:51:19,310 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'backend.app.repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:51:22,790 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 你好
+2026-05-16 12:51:22,790 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'backend.app.repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:51:22,793 | ERROR    | ITS_App:63 | AgentService.process_query执行出错: module 'backend.app.repositories.session_repository' has no attribute 'load_session'
+2026-05-16 12:51:22,809 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:51:22,809 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:51:22,810 | ERROR    | ITS_App:76 | 获取用户 root1 的会话数据时出错: module 'backend.app.repositories.session_repository' has no attribute 'get_all_sessions_metadata'
+2026-05-16 12:55:58,254 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 12:55:58,256 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 12:55:58,257 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 12:57:42,877 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-16 12:57:43,291 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-16 12:57:50,814 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:57:50,815 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 12:58:30,756 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 导航去郑州的小米服务站
+2026-05-16 12:58:33,746 | INFO     | ITS_App:56 | [Route] 转交业务专家: 导航去郑州的小米服务站...
+2026-05-16 12:59:02,202 | INFO     | ITS_App:155 | [Location] IP location success: 117.159.161.214 → (35.038387, 113.262344)
+2026-05-16 12:59:05,797 | INFO     | ITS_App:251 | [NearestShops] Found 3 shops near (35.03838650094511, 113.26234437390133)
+2026-05-16 12:59:29,763 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 12:59:29,763 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 13:01:04,762 | INFO     | ITS_App:31 | 用户 root1 发送的待处理任务 那就去郑州的任意品牌服务站
+2026-05-16 13:01:06,110 | INFO     | ITS_App:56 | [Route] 转交业务专家: 导航去郑州的任意品牌服务站...
+2026-05-16 13:01:33,213 | INFO     | ITS_App:155 | [Location] IP location success: 117.159.161.214 → (35.038387, 113.262344)
+2026-05-16 13:01:36,694 | INFO     | ITS_App:251 | [NearestShops] Found 3 shops near (35.03838650094511, 113.26234437390133)
+2026-05-16 13:02:03,283 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-05-16 13:02:03,283 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-05-16 13:02:25,279 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-16 13:02:25,281 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-16 13:02:25,283 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-16 15:16:52,931 | INFO     | ITS_App:155 | [Location] IP location success: 117.159.161.214 → (35.038387, 113.262344)
+2026-05-16 15:16:56,262 | INFO     | ITS_App:251 | [NearestShops] Found 3 shops near (35.03838650094511, 113.26234437390133)
+2026-05-16 15:20:35,110 | INFO     | ITS_App:155 | [Location] IP location success: 117.159.161.214 → (35.038387, 113.262344)
+2026-05-16 15:20:38,118 | INFO     | ITS_App:251 | [NearestShops] Found 3 shops near (35.03838650094511, 113.26234437390133)

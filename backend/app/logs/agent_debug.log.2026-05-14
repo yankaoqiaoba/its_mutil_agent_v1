@@ -1,0 +1,155 @@
+2026-01-21 11:33:04,625 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:33:04,961 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:33:04,971 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:33:41,565 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:33:41,594 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:33:41,595 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:35:17,389 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:35:17,428 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:35:17,429 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:35:41,305 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:35:41,338 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:35:41,341 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:35:41,377 | INFO     | ITS_App:18 | 应用启动，建立MCP连接...
+2026-01-21 11:35:41,377 | ERROR    | ITS_App:23 | MCP连接建立失败: name 'mcp_connect' is not defined
+2026-01-21 11:36:18,572 | INFO     | ITS_App:28 | 应用关闭，清理MCP连接...
+2026-01-21 11:36:18,572 | ERROR    | ITS_App:33 | MCP连接清理失败: name 'mcp_cleanup' is not defined
+2026-01-21 11:36:18,572 | INFO     | ITS_App:62 | 2.启动Web服务器成功...
+2026-01-21 11:36:19,894 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:36:19,927 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:36:19,929 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:36:19,977 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:36:31,023 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:38:27,798 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 你好
+2026-01-21 11:39:44,429 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 11:39:44,439 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 11:39:44,440 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 11:39:48,794 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:39:49,340 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:39:49,343 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:39:49,748 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:39:57,081 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:40:54,120 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 你好
+2026-01-21 11:41:43,713 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 11:41:43,716 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 11:41:43,727 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 11:41:47,140 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:41:47,193 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:41:47,197 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:41:47,259 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:41:52,148 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:42:10,749 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 你好
+2026-01-21 11:44:03,182 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 导航去最近的服务站
+2026-01-21 11:44:23,532 | INFO     | ITS_App:56 | [Route] 转交业务专家: 导航去最近的服务站...
+2026-01-21 11:44:54,513 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 61.149.121.237
+2026-01-21 11:44:55,387 | INFO     | ITS_App:154 | [Location] IP location success: 61.149.121.237 → (22.217250, 114.197673)
+2026-01-21 11:45:02,508 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (22.21724983264529, 114.19767337339287)
+2026-01-21 11:46:47,521 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 11:46:47,524 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 11:46:47,536 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 11:46:50,837 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:46:50,881 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:46:50,885 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:46:50,941 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:46:56,742 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:47:35,759 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 查看昌平区温都水城附近有哪些商场
+2026-01-21 11:48:59,997 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 11:49:00,000 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 11:49:00,004 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 11:49:03,328 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:49:03,371 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:49:03,373 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:49:03,432 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:49:04,340 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:49:30,615 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 查询一下昌平区温都水城附近有哪些商场
+2026-01-21 11:49:36,573 | INFO     | ITS_App:56 | [Route] 转交业务专家: 昌平区温都水城附近有哪些商场...
+2026-01-21 11:49:39,275 | DEBUG    | ITS_App:92 | [Location] Trying geocode for: '昌平区温都水城'
+2026-01-21 11:49:39,429 | INFO     | ITS_App:106 | [Location] Geocode success: '昌平区温都水城' → (40.1102640888901, 116.3770169663488)
+2026-01-21 11:51:06,222 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 我们刚刚都聊了些什么
+2026-01-21 11:53:14,657 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 我的电脑黑屏了怎么办
+2026-01-21 11:53:19,804 | INFO     | ITS_App:27 | [Route] 转交技术专家: 电脑黑屏了怎么办...
+2026-01-21 11:55:04,522 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 今天发生哪些AI科技圈的新鲜事
+2026-01-21 11:55:13,303 | INFO     | ITS_App:27 | [Route] 转交技术专家: 今天发生哪些AI科技圈的新鲜事...
+2026-01-21 11:55:19,872 | INFO     | ITS_App:27 | [Route] 转交技术专家: 今天发生哪些AI科技圈的新鲜事...
+2026-01-21 11:56:13,659 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 11:56:13,661 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 11:56:13,671 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 11:56:17,027 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 11:56:17,070 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 11:56:17,073 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 11:56:17,129 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 11:56:22,193 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 11:56:45,042 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 今天发生了哪些事情
+2026-01-21 11:56:49,428 | INFO     | ITS_App:27 | [Route] 转交技术专家: 今天发生了哪些重要新闻事件...
+2026-01-21 11:57:42,959 | INFO     | ITS_App:30 | 用户 root1 发送的待处理任务 电脑无法开机怎么办？问完这个，请帮我导航去清华大学，我想去拍夜景
+2026-01-21 11:57:45,963 | INFO     | ITS_App:27 | [Route] 转交技术专家: 电脑无法开机怎么办...
+2026-01-21 11:58:49,678 | INFO     | ITS_App:56 | [Route] 转交业务专家: 导航去清华大学...
+2026-01-21 11:59:19,827 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-21 11:59:20,762 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (22.217250, 114.197673)
+2026-01-21 14:00:39,507 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-01-21 14:00:39,516 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-01-21 14:00:39,523 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-01-21 14:00:41,131 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-21 14:00:41,164 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-21 14:00:41,165 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-01-21 14:00:41,207 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-01-21 14:01:02,562 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-01-21 14:01:23,854 | INFO     | ITS_App:56 | 接收到获取用户会话请求
+2026-01-21 14:01:23,854 | INFO     | ITS_App:60 | 获取用户 root1 的所有会话记忆数据
+2026-01-21 14:01:23,855 | DEBUG    | ITS_App:65 | 成功获取用户 root1 的 2 个会话
+2026-05-14 17:57:21,304 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 17:57:21,406 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-05-14 17:57:21,407 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-05-14 17:57:21,485 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-14 17:57:22,076 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 17:57:22,077 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-14 18:07:51,623 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:08:57,687 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-14 18:08:57,691 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-14 18:08:57,691 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-14 18:09:03,181 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 18:09:03,241 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-05-14 18:09:03,243 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-05-14 18:09:03,296 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-14 18:09:03,809 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 18:09:03,810 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-14 18:21:30,165 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-14 18:21:30,168 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-14 18:21:30,169 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-14 18:21:33,299 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 18:21:33,357 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-05-14 18:21:33,359 | DEBUG    | ITS_App:31 | 成功加载提示词: orchestrator_v1
+2026-05-14 18:21:33,411 | INFO     | ITS_App:19 | 应用启动，建立MCP连接...
+2026-05-14 18:21:33,846 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 18:21:33,846 | INFO     | ITS_App:22 | MCP连接建立完成
+2026-05-14 18:22:00,045 | INFO     | ITS_App:29 | 应用关闭，清理MCP连接...
+2026-05-14 18:22:00,046 | INFO     | ITS_App:32 | MCP连接清理完成
+2026-05-14 18:22:00,047 | INFO     | ITS_App:63 | 2.启动Web服务器成功...
+2026-05-14 18:32:38,210 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:34:41,673 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:34:57,569 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:35:20,978 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:36:29,709 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:37:35,110 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:38:54,068 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Server error '500 Internal Server Error' for url 'http://127.0.0.1:8001/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500
+2026-05-14 19:45:29,651 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:46:29,176 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:48:54,166 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:49:51,448 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:50:31,050 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:50:58,918 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 19:53:51,427 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:16:03,109 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:16:34,413 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:18:36,832 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:34:55,133 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:35:33,108 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-05-14 20:40:31,379 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+openai
+openai-agents
+pymysql
+dbutils
+pystun3

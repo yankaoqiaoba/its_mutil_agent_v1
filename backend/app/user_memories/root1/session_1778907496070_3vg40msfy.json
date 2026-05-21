@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "你是一个有记忆的智能体助手，请基于上下文历史会话用户问题 (会话ID session_1778907496070_3vg40msfy)"
+  },
+  {
+    "role": "user",
+    "content": "导航去郑州的小米服务站"
+  },
+  {
+    "role": "assistant",
+    "content": "**导航链接**：[点击此处导航至小米之家(百步亭·花园里江岸区店)](https://api.map.baidu.com/direction?origin=name:起点|latlng:35.03838650094511,113.26234437390133&destination=name:终点|latlng:30.647776812979547,114.33490524882394&mode=driving&output=html&coord_type=bd09ll&src=webapp.baidu.openAPIdemo&origin_region=焦作市&destination_region=武汉市)\n> **温馨提示**：该服务站位于武汉市，距离较远（约498公里）。建议您也可以通过小米官网或拨打400客服热线查询郑州市内是否有新增的服务网点。"
+  },
+  {
+    "role": "user",
+    "content": "那就去郑州的任意品牌服务站"
+  },
+  {
+    "role": "assistant",
+    "content": "[点击此处导航至荣耀官方授权服务中心(郑州西周店)](https://api.map.baidu.com/direction?origin=name:起点|latlng:35.03838650094511,113.26234437390133&destination=name:终点|latlng:34.75501108966413,113.75260627995989&mode=driving&output=html&coord_type=bd09ll&src=webapp.baidu.openAPIdemo&origin_region=焦作市&destination_region=郑州市)"
+  }
+]

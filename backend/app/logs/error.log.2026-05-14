@@ -1,0 +1,21 @@
+2026-01-21 11:35:41,377 | ERROR    | ITS_App:23 | MCP连接建立失败: name 'mcp_connect' is not defined
+2026-01-21 11:36:18,572 | ERROR    | ITS_App:33 | MCP连接清理失败: name 'mcp_cleanup' is not defined
+2026-05-14 17:57:22,076 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 18:07:51,623 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:09:03,809 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 18:21:33,846 | ERROR    | ITS_App:16 | 搜索MCP连接失败: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-14 18:32:38,210 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:34:41,673 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:34:57,569 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:35:20,978 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:36:29,709 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:37:35,110 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Client error '405 Method Not Allowed' for url 'https://iknow.lenovo.com.cn/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405
+2026-05-14 18:38:54,068 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Server error '500 Internal Server Error' for url 'http://127.0.0.1:8001/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500

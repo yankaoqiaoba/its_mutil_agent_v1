@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pymysql
+DBUtils
+openai
+httpx
+openai-agents
+pystun3

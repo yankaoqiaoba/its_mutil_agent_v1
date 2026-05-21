@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: its_app
+Version: 0.1.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: pydantic
+Requires-Dist: pydantic-settings
+Requires-Dist: openai
+Requires-Dist: openai-agents
+Requires-Dist: pymysql
+Requires-Dist: dbutils
+Requires-Dist: pystun3
+Dynamic: requires-dist
