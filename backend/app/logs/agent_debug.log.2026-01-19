@@ -1,0 +1,64 @@
+2026-01-19 13:57:19,316 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:02:30,929 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-01-19 14:05:45,259 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:06:33,564 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:06:50,164 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:07:44,802 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:07:57,197 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:08:18,228 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:20,069 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:51,987 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:10:36,448 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Server error '502 Bad Gateway' for url 'http://127.0.0.1:8001/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2026-01-19 14:12:42,514 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:14:57,073 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:27:40,057 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:29:49,554 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:31:14,143 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:31:43,992 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 14:33:07,640 | DEBUG    | ITS_App:31 | 成功加载提示词: technical_agent
+2026-01-19 17:44:09,115 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:44:39,071 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-19 17:45:33,325 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:46:07,858 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-19 17:46:08,801 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (22.217250, 114.197673)
+2026-01-19 17:46:14,184 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (22.21724983264529, 114.19767337339287)
+2026-01-19 17:47:11,721 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:47:38,917 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-19 17:47:39,177 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:47:43,318 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:51:26,143 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:51:53,540 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-19 17:51:53,776 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:51:58,120 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.03538105397222, 116.23917994586347)
+2026-01-19 17:52:41,419 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:53:07,780 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 221.217.55.74
+2026-01-19 17:53:08,114 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:53:10,761 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:55:21,885 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:55:50,678 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 123.120.109.232
+2026-01-19 17:55:50,908 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 17:55:53,955 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:56:30,793 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:56:34,374 | DEBUG    | ITS_App:92 | [Location] Trying geocode for: '昌平区回龙观'
+2026-01-19 17:56:34,577 | INFO     | ITS_App:106 | [Location] Geocode success: '昌平区回龙观' → (40.07043354991036, 116.33111032088908)
+2026-01-19 17:56:37,860 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.07043354991036, 116.33111032088908)
+2026-01-19 17:57:43,866 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:58:11,385 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 123.120.109.232
+2026-01-19 17:58:12,292 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 17:58:14,850 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:58:43,962 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 17:59:11,159 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 123.120.109.232
+2026-01-19 17:59:11,463 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 17:59:39,016 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 18:00:34,852 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 18:01:02,592 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 123.120.109.232
+2026-01-19 18:01:03,087 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 18:01:29,388 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 18:01:56,667 | DEBUG    | ITS_App:125 | [Location] Trying IP location for: 123.120.109.232
+2026-01-19 18:01:56,907 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 18:02:51,430 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 18:02:57,188 | DEBUG    | ITS_App:92 | [Location] Trying geocode for: '昌平区回龙观'
+2026-01-19 18:02:57,356 | INFO     | ITS_App:106 | [Location] Geocode success: '昌平区回龙观' → (40.07043354991036, 116.33111032088908)
+2026-01-19 18:03:44,230 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent
+2026-01-19 18:03:54,780 | DEBUG    | ITS_App:31 | 成功加载提示词: comprehensive_service_agent

@@ -1,0 +1,12 @@
+/.vscode/
+/backend/app/logs/
+/backend/app/.env
+/掌柜问数项目-问数智能体.drawio.svg
+/backend/knowledge/data/crawl/
+/backend/knowledge/repositories/vector_store_tk.py
+/backend/knowledge/services/retrieval_service_tk.py
+/backend/knowledge/test/
+/backend/openai-agents-tutorial/
+/笔记/
+/backend/knowledge/chroma_kb/f73c8ac4-514b-4e14-8c58-ae293319b20a/
+/backend/knowledge/chroma_kb/chroma.sqlite3

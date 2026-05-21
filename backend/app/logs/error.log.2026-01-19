@@ -1,0 +1,8 @@
+2026-01-19 14:02:30,929 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-01-19 14:06:50,164 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:07:57,197 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:08:18,228 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:20,069 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:51,987 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:10:36,448 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Server error '502 Bad Gateway' for url 'http://127.0.0.1:8001/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502

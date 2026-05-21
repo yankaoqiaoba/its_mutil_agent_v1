@@ -1,0 +1,26 @@
+2026-01-19 14:02:30,929 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:All connection attempts failed
+2026-01-19 14:06:50,164 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:07:57,197 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:08:18,228 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:20,069 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:09:51,987 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:
+2026-01-19 14:10:36,448 | ERROR    | ITS_App:36 | 发送请求获取知识库服务下的知识库数据失败:Server error '502 Bad Gateway' for url 'http://127.0.0.1:8001/query'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2026-01-19 17:46:08,801 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (22.217250, 114.197673)
+2026-01-19 17:46:14,184 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (22.21724983264529, 114.19767337339287)
+2026-01-19 17:47:39,177 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:47:43,318 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:51:53,776 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:51:58,120 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.03538105397222, 116.23917994586347)
+2026-01-19 17:53:08,114 | INFO     | ITS_App:154 | [Location] IP location success: 221.217.55.74 → (40.035381, 116.239180)
+2026-01-19 17:53:10,761 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:55:50,908 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 17:55:53,955 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:56:34,577 | INFO     | ITS_App:106 | [Location] Geocode success: '昌平区回龙观' → (40.07043354991036, 116.33111032088908)
+2026-01-19 17:56:37,860 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.07043354991036, 116.33111032088908)
+2026-01-19 17:58:12,292 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 17:58:14,850 | INFO     | ITS_App:250 | [NearestShops] Found 3 shops near (40.035381053972266, 116.23917994586347)
+2026-01-19 17:59:11,463 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 18:01:03,087 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 18:01:56,907 | INFO     | ITS_App:154 | [Location] IP location success: 123.120.109.232 → (40.035381, 116.239180)
+2026-01-19 18:02:57,356 | INFO     | ITS_App:106 | [Location] Geocode success: '昌平区回龙观' → (40.07043354991036, 116.33111032088908)
