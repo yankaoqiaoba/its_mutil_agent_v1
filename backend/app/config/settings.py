@@ -71,7 +71,7 @@ class Settings(BaseSettings):
         description="通义千问 DashScope Base URL"
     )
     DASHSCOPE_API_KEY: Optional[str] = Field(
-        default="sk-26d57c968c364e7bb14f1fc350d4bff0",
+        default="*****",
         description="通义千问 DashScope API Key"
     )
 
