@@ -44,14 +44,13 @@ MultiAgentService.process_task()
 | 技术专家 | `technical_agent` | 阿里百炼(子) | `query_knowledge` / `search_mcp_client` | 技术问答、实时资讯 |
 | 业务专家 | `comprehensive_service_agent` | 阿里百炼(子) | `resolve_user_location_from_text` / `query_nearest_repair_shops_by_coords` / `baidu_mcp_client` | 服务站查询、地图导航 |
 
-### 1.3 当前编排模式：Swarm (Agent as tool)
+### 1.3 当前编排模式：Agent as tool
 
 ```
 用户输入 → Orchestrator(意图识别) → 调用 function_tool(子Agent) → 子Agent执行工具 → 返回结果 → Orchestrator聚合 → 用户
 ```
 
 **痛点**：
-- 黑盒 handoff，流程不可视
 - 条件分支依赖 prompt 驱动，不够精确
 - 无法做复杂的多步条件路由
 - 难以加入人工审核节点
